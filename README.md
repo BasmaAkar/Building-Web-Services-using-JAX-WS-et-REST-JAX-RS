@@ -18,6 +18,8 @@ Implémentez une méthode capable de renvoyer les prix des deux carburants en se
 ![image](https://user-images.githubusercontent.com/101791324/207429777-811fa6e2-83db-4263-afad-30ef0cf05b45.png)
 ![image](https://user-images.githubusercontent.com/101791324/207429888-2ca81a95-ad2e-4f8a-ba76-55f9b6f63df6.png)
 ![image](https://user-images.githubusercontent.com/101791324/207430063-38045b96-73cb-4a60-ac85-d6ceefc2b740.png)
+### Tester les différents web services en utilisant le navigateur web :
+![image](https://user-images.githubusercontent.com/101791324/207430227-025b4905-080f-48f9-9160-85f3d216fe8b.png)
 
 
 
