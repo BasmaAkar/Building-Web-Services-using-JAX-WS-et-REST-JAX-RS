@@ -13,7 +13,6 @@ Implémentez une méthode capable de renvoyer les prix des deux carburants en se
 ![image](https://user-images.githubusercontent.com/101791324/207426177-f4040ff1-8133-4808-a81e-f8a166b33da8.png)
 ### Relation ManyToMany entre la class Station et Carburant ce qui génère un table qui a 2 Froeign key 
 ![image](https://user-images.githubusercontent.com/101791324/207426531-33418ab1-aec1-4bbb-af9c-e312a34c3909.png)
-### ****
 ![image](https://user-images.githubusercontent.com/101791324/207427857-055bbc33-9379-4d8e-885c-88b9fb5f9d72.png)
 
 
