@@ -1,9 +1,9 @@
 # Building-Web-Services-using-JAX-WS-et-REST-JAX-RS-JEE
 _**Objectif**_ : 
 L’objectif principal de cet atelier et de pratiquer la mise en place d’une variété des web services basés sur plusieurs architectures. Durant cet atelier l’étudiant sera mené à implémenter 3 architectures spécifiques: JAX-WS, JAX-RS, Jersey, le rôle principal de ces web services est de garantir la bonne gestion des stations et prix des carburants.
-### _**Outils : Eclipse, Maven, Tomcate, JAX-WS, JAX-RS.
+### Outils : Eclipse, Maven, Tomcate, JAX-WS, JAX-RS.
 ###
-### ****  Diagramme de class :
+###  Diagramme de class :
 ![image](https://user-images.githubusercontent.com/101791324/207425844-aa73e57d-c1cf-4ebd-8393-6eabcbb32cec.png)
 ###****  
 Implémentez des méthodes pour un web service qui va gérer la partie backend « CRUD station, CRUD Carburant, et la gestion des prix journaliers du carburant d’une station donnée ». ce web service sera de type JAX-WS.
